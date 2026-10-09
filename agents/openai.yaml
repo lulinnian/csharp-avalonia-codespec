@@ -1,0 +1,4 @@
+interface:
+  display_name: "C# & Avalonia CodeSpec"
+  short_description: "Clean up C# and Avalonia AXAML safely"
+  default_prompt: "Use this skill to organize the specified C# and Avalonia AXAML code while preserving behavior and validating the result."
